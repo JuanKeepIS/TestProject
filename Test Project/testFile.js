@@ -15,4 +15,6 @@
  * @param {nlobjRequest} request Request object
  * @returns {Void}
  */
-
+function dataInfo(){
+	nlapiLogExecution('DEBUG', 'dataInfo','Test Data');
+}
