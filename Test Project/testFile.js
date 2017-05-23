@@ -23,4 +23,5 @@ function dataInfo(){
 	 * ata
 	 * Breve...
 	 */
+	var xxxx =00;
 }
