@@ -19,5 +19,6 @@ function dataInfo(){
 	nlapiLogExecution('DEBUG', 'dataInfo','Test Data');
 	/**
 	 * TEst
+	 * Buena la r
 	 */
 }
